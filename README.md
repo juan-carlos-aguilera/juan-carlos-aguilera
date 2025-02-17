@@ -2,9 +2,11 @@
 
 <h2 align="center"> 🤖 Frontend Developer | 👷 Oil Chemical Enginner  </h2>
 
+<h4 align=""center>I´m a Frontend developer using JavaScript programming language. I love to learn and build something new, productive, innovative and creative.<h4>
+
 ##  🔎 About Me
 
-I´m a Frontend developer using JavaScript programming language. I love to learn and build something new, productive, innovative and creative.
+
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
  📌 Location: CDMX, México.
@@ -33,7 +35,7 @@ I´m a Frontend developer using JavaScript programming language. I love to learn
 ## 🪪 Connect with Me
 📧 E-mail: **juancaguileran@gmail.com**
 
-<a href="www.linkedin.com/in/juan-carlos-aguilera">
+<a href="https://www.linkedin.com/in/juan-carlos-aguilera/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
