@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
+## Recent Activity
+<!--START-SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## ✏️ Currently Learning 
 
 <span>
