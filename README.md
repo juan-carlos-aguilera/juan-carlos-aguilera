@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center"> | Data Scientist | Oil Chemical Enginner |</h2>
+<h2 align="center"> | Data Analyst | Oil Chemical Enginner |</h2>
 
 <h4 align=""center>I´m a Data Scientist using Python. I love to learn and build something new, productive, innovative and creative.<h4>
 
